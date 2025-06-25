@@ -5,7 +5,7 @@ import { Download } from "lucide-react";
 const AboutSection = () => {
   const handleDownloadResume = () => {
     // Open Google Drive link in a new tab
-    window.open('https://drive.google.com/file/d/1rJFi53LGPcEUhM1vJs6SgMc_HRWUbiEV/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1W9hGBN1OX18rIHQOSYvL0r-IPhTlg5-R/view?usp=sharing', '_blank');
   };
 
   return (
